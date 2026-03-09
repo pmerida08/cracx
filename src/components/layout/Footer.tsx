@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           <div className="space-y-4">
             <img
-              src="/assets/img/logo.webp"
+              src="/img/logo.webp"
               alt="CRACX Logo"
               className="h-10 w-auto brightness-0 invert"
             />

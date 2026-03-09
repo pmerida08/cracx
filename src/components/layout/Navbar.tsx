@@ -26,7 +26,7 @@ export function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
               <img
-                src="/assets/img/logo.webp"
+                src="/img/logo.webp"
                 alt="CRACX Logo"
                 className="h-10 w-auto"
               />

@@ -8,7 +8,7 @@ export function Home() {
       <section className="relative bg-gray-950 text-white overflow-hidden min-h-[90vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <img
-            src="/assets/img/51.webp"
+            src="/img/51.webp"
             alt="CRACX productos"
             className="w-full h-full object-cover opacity-30"
           />
@@ -73,7 +73,7 @@ export function Home() {
             <Link to="/producto/menta" className="group block">
               <div className="bg-cyan-50 rounded-3xl p-6 aspect-square flex items-center justify-center relative overflow-hidden mb-4 transition-transform group-hover:-translate-y-2 group-hover:shadow-xl">
                 <img
-                  src="/assets/img/31.webp"
+                  src="/img/31.webp"
                   alt="CRACX Menta"
                   className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                 />
@@ -91,7 +91,7 @@ export function Home() {
             <Link to="/producto/cereza" className="group block">
               <div className="bg-red-50 rounded-3xl p-6 aspect-square flex items-center justify-center relative overflow-hidden mb-4 transition-transform group-hover:-translate-y-2 group-hover:shadow-xl">
                 <img
-                  src="/assets/img/11.webp"
+                  src="/img/11.webp"
                   alt="CRACX Cereza"
                   className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                 />
@@ -109,7 +109,7 @@ export function Home() {
             <Link to="/producto/sandia" className="group block">
               <div className="bg-pink-50 rounded-3xl p-6 aspect-square flex items-center justify-center relative overflow-hidden mb-4 transition-transform group-hover:-translate-y-2 group-hover:shadow-xl">
                 <img
-                  src="/assets/img/41.webp"
+                  src="/img/41.webp"
                   alt="CRACX Sandía"
                   className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                 />
@@ -127,7 +127,7 @@ export function Home() {
             <Link to="/producto/limon" className="group block">
               <div className="bg-yellow-50 rounded-3xl p-6 aspect-square flex items-center justify-center relative overflow-hidden mb-4 transition-transform group-hover:-translate-y-2 group-hover:shadow-xl">
                 <img
-                  src="/assets/img/21.webp"
+                  src="/img/21.webp"
                   alt="CRACX Limón"
                   className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
                 />
@@ -222,7 +222,7 @@ export function Home() {
             </div>
             <div className="rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/assets/img/52.webp"
+                src="/img/52.webp"
                 alt="Todos los sabores CRACX"
                 className="w-full h-full object-cover"
               />
@@ -237,7 +237,7 @@ export function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="order-2 lg:order-1 rounded-3xl overflow-hidden shadow-xl">
               <img
-                src="/assets/img/53.webp"
+                src="/img/53.webp"
                 alt="Pack CRACX edición especial"
                 className="w-full h-full object-cover"
               />
