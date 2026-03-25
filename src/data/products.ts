@@ -21,7 +21,7 @@ export const products: Product[] = [
     flavor: "Menta",
     price: 9.99,
     description:
-      "Caramelos de xilitol puro con sabor a menta fresca. Sin azúcares, sin lactosa, sin gluten. Perfectos para después de las comidas.",
+      "Cristales que llevan xilitol puro con sabor a menta fresca. Sin azúcares, sin lactosa, sin gluten. Perfectos para después de las comidas.",
     benefits: [
       "100% Xilitol puro",
       "Previene la caries",
@@ -43,7 +43,7 @@ export const products: Product[] = [
     flavor: "Cereza",
     price: 9.99,
     description:
-      "Caramelos de xilitol puro con un intenso sabor a cereza. Sin azúcares, sin lactosa, sin gluten. Un placer saludable para tu sonrisa.",
+      "Cristales que llevan xilitol puro con un intenso sabor a cereza. Sin azúcares, sin lactosa, sin gluten. Un placer saludable para tu sonrisa.",
     benefits: [
       "100% Xilitol puro",
       "Previene la caries",
@@ -65,7 +65,7 @@ export const products: Product[] = [
     flavor: "Sandía",
     price: 9.99,
     description:
-      "Caramelos de xilitol puro con el delicioso sabor de la sandía. Sin azúcares, sin lactosa, sin gluten. Refrescante y saludable.",
+      "Cristales que llevan xilitol puro con el delicioso sabor de la sandía. Sin azúcares, sin lactosa, sin gluten. Refrescante y saludable.",
     benefits: [
       "100% Xilitol puro",
       "Previene la caries",
@@ -87,7 +87,7 @@ export const products: Product[] = [
     flavor: "Limón",
     price: 9.99,
     description:
-      "Caramelos de xilitol puro con un toque cítrico y refrescante de limón. Sin azúcares, sin lactosa, sin gluten. Energizante y saludable.",
+      "Cristales que llevan xilitol puro con un toque cítrico y refrescante de limón. Sin azúcares, sin lactosa, sin gluten. Energizante y saludable.",
     benefits: [
       "100% Xilitol puro",
       "Previene la caries",

@@ -26,9 +26,9 @@ export function Home() {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mb-10 font-light">
-            Caramelos de xilitol puro. Sin azúcares, sin lactosa, sin gluten.
-            Previene la caries, refresca el aliento y cuida tu sonrisa de forma
-            natural.
+            Cristales que llevan xilitol puro. Sin azúcares, sin lactosa, sin
+            gluten. Previene la caries, refresca el aliento y cuida tu sonrisa
+            de forma natural.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
@@ -171,7 +171,8 @@ export function Home() {
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 El xilitol es un edulcorante natural que inhibe el crecimiento
                 de las bacterias que causan las caries. CRACX combina el placer
-                de un caramelo con los beneficios de una higiene dental activa.
+                de unos cristales que llevan xilitol con los beneficios de una
+                higiene dental activa.
               </p>
               <div className="grid grid-cols-1 gap-5">
                 <div className="flex items-start gap-4">

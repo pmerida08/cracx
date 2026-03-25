@@ -14,8 +14,9 @@ export function Shop() {
             Sabores Premium
           </h1>
           <p className="text-xl text-gray-500">
-            Descubre nuestra gama de caramelos de xilitol. Sin azúcares, sin
-            lactosa, sin gluten. Cuida tu sonrisa con el sabor que más te guste.
+            Descubre nuestra gama de cristales que llevan xilitol. Sin azúcares,
+            sin lactosa, sin gluten. Cuida tu sonrisa con el sabor que más te
+            guste.
           </p>
         </div>
 
