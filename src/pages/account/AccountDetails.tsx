@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { User, Mail, Lock, Eye, EyeOff, Save } from "lucide-react";
 
 export function AccountDetails() {
